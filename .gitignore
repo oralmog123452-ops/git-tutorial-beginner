@@ -1,2 +1,5 @@
 db.sql
 password.txt
+*.log
+about.html
+!importent.log 

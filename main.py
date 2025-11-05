@@ -1,1 +1,1 @@
-# This is the main entry point of the application
+print("This is the main entry point of the application")
